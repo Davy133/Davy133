@@ -1,8 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Davy+%F0%9F%91%8B;Welcome+to+my+Github;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a><br/>
-<img src="https://lanyard.kyrie25.me/api/208931378031493121"/>
 </div>
-
 
 ## 💫 About me:
 📖 Undergraduate Computer Science Student @ Paraíba State University.<br>🔭 I’m currently working on my Gameboy emulator.<br>🌱 I'm currently learning math.<br>💻 Linux Mint / bspwm<br>⚡ Fun fact: I like making songs and drawing.
