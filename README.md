@@ -3,7 +3,7 @@
 </div>
 
 ## 💫 About me:
-📖 Undergraduate Computer Science Student @ UFCG.<br>🔭 I’m currently working on my Gameboy emulator.<br>🌱 I'm currently learning math.<br>💻 Linux Mint / bspwm<br>⚡ Fun fact: I like making songs and drawing.
+📖 Undergraduate Computer Science Student @ UFCG.<br>🔭 I’m currently working on my Gameboy emulator.<br>🌱 I'm currently learning math.<br>💻 Ubuntu <br>⚡ Fun fact: I like making songs and drawing.
 
 
 ## 🌐 Socials:
