@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**Davy133/Davy133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTB Stats](https://www.hackthebox.com/badge/image/139922)
+![THM Stats](https://tryhackme-badges.s3.amazonaws.com/Davy133.png)
+```
+            ______                  __   _____  _____ 
+            |  _  \                /  | |____ ||____ |
+            | | | |__ ___   ___   _`| |     / /    / /
+            | | | / _` \ \ / / | | || |     \ \    \ \
+            | |/ / (_| |\ V /| |_| || |_.___/ /.___/ /
+            |___/ \__,_| \_/  \__, \___/\____/ \____/ 
+                               __/ |                  
+                              |___/                   
+                                                                                                                                         
+       =[ davy133 v1.0.0-dev-0x64617679313333            ]
++ -- --=[ CS Undergraduate @ UFCG - Developer - Hacker   ]
++ -- --=[ C - Lua -  Python - Javascript - Typescript    ]
++ -- --=[ Git - Docker - Linux                           ]
+      
+msf6>
+```
